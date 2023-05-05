@@ -61,12 +61,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sujith9384/sujith9384/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sujith9384/sujith9384/output/snake.yml" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sujith9384/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sujith9384/count.yml?"  />
 </div>
 
 ###
