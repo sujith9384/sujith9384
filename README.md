@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Portfolio<br><br>🌱 I’m currently learning-> Java<br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->sujisujith9384@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r</p>
+<p align="left">🔭 I’m currently working on Portfolio<br><br>🌱 I’m currently learning-> Java<br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->sujisujith9384@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
+</p>
 
 ###
 
