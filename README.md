@@ -63,3 +63,9 @@
   
  ## <h2 align="left">🏆 GitHub Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+###
+
+<img src="https://raw.githubusercontent.com/sujith9384/sujith9384/output/snake.svg" alt="Snake animation" />
+
+###
