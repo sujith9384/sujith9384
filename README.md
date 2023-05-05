@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -61,7 +65,5 @@
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sujithcs20" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sujithcs20" height="30" width="40" /></a>
 </div>
   
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+  
 
