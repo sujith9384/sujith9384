@@ -65,7 +65,5 @@
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sujithcs20" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sujithcs20" height="30" width="40" /></a>
 </div>
   
-  <h2 align="left">🏆 GitHub Trophies</h2>
- ###
-(https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-###
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
