@@ -43,7 +43,43 @@
 <h2 align="left">Git Stats</h2>
 
 ###
-
+<div class="moving-border"></div>
+  @property --angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+body {
+  background: #000;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+.moving-border {
+  width: 200px;
+  height: 300px;
+  position: relative;
+  background: #111;
+  padding: 4px;
+}
+.moving-border::before,
+.moving-border::after {
+  content: "";
+  position: absolute;
+  inset: -0.2rem;
+  z-index: -1;
+  background: linear-gradient(var(--angle), 
+    #032146,  #C3F2FF, #b00);
+  animation: rotate 10s linear infinite;
+}
+.moving-border::after {
+  filter: blur(10px);
+}
+@keyframes rotate {
+  0%     { --angle: 0deg; }
+  100%   { --angle: 360deg;
+  }
+}
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sujith9384" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sujith9384" height="150" alt="languages graph"  />
