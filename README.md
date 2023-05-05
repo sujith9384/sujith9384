@@ -59,15 +59,3 @@
   <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sujithcs20" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sujithcs20" height="30" width="40" /></a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/sujith9384/sujith9384/output/snake.yml" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sujith9384/count.yml?"  />
-</div>
-
-###
-
