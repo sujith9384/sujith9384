@@ -67,4 +67,4 @@
   
   <h2 align="left">🏆 GitHub Trophies</h2>
   ## 
-![](https://github-profile-trophy.vercel.app/?username=uriht&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sujith9384&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
