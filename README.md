@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" height="300"/>
 </div>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="center">Pleased to meet you; I'm SUJITH</h1>
+<h1 align="center">Pleased to meet you->I'm SUJITH</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 ###
@@ -15,11 +15,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
 
 ###
 
-<p align="left">🔭 I’m currently working on Portfolio<br><br>🌱 I’m currently learning-> Java<br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->sujisujith9384@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
+<p align="left">🔭 I’m currently working on ->Portfolio<br><br>🌱 I’m currently learning-> Java<br><br>👨‍💻 All of my projects are available at ->https://sujith.netlify.app/<br><br>📫 How to reach me ->sujisujith9384@gmail.com<br><br>📄 Know about my experiences ->https://tinyurl.com/5n7wd92r<br><br>⚡ Quotes **"The only way to do great work is to love what you do.🏆🎲" - Steve Jobs**
 </p>
 
 ###
