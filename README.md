@@ -44,7 +44,9 @@
 
 ###
 <div class="moving-border"></div>
-  @property --angle {
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sujith9384" height="150" alt="stats graph"   @property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
   inherits: false;
@@ -79,9 +81,7 @@ body {
   0%     { --angle: 0deg; }
   100%   { --angle: 360deg;
   }
-}
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=sujith9384" height="150" alt="stats graph"  />
+} />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=sujith9384" height="150" alt="languages graph"  />
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujith9384&theme=dark" alt="sujith9384" /></p>
 </div>
