@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://sasikumar-02.github.io/)
 <h1 align="center">Hi 👋, I'm SUJITH K</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn3.iconfinder.com/data/icons/developers-1/512/A_Programmer_Clicks_On_The_Code.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith9384&label=Profile%20views&color=0e75b6&style=flat" alt="sujith9384" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
